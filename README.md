@@ -7,6 +7,8 @@ This repository is for me trying to learn python lol :P
 - [string.py](https://github.com/AaryanKhClasses/Learning-Python/blob/main/string.py)
 - [lists.py](https://github.com/AaryanKhClasses/Learning-Python/blob/main/lists.py)
 - [fibonacci.py](https://github.com/AaryanKhClasses/Learning-Python/blob/main/fibonacci.py)
+- [statements.py](https://github.com/AaryanKhClasses/Learning-Python/blob/main/statements.py)
+- - [functions.py](https://github.com/AaryanKhClasses/Learning-Python/blob/main/functions.py)
 
 # My Other Projects
 - [Bacc](https://github.com/AaryanKhClasses/Bacc)
